@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
       padding: 0 10px; } }
 
 .mainblock {
-  background: url("../../img/top/bg.png") center/cover no-repeat;
+  background: url("../img/top/bg.png") center/cover no-repeat;
   height: 100vh;
   -webkit-box-flex: 1;
   -ms-flex: 1 1 auto;
@@ -419,7 +419,7 @@ h1, h2, h3, h4, h5, h6 {
         padding: 15px 0 0 0; } }
 
 .partners {
-  background: url("../../img/partners/partners.png") center/cover no-repeat;
+  background: url("../img/partners/partners.png") center/cover no-repeat;
   padding: 100px 0 70px 0; }
   @media (max-width: 767.98px) {
     .partners {
